@@ -1,0 +1,21 @@
+{
+  "name": "server_beget_api",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "export": "next export"
+  },
+  "dependencies": {
+    "next": "14.2.2",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-simple-toasts": "^5.10.0"
+  },
+  "devDependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
